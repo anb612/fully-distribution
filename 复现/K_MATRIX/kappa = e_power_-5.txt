@@ -1,0 +1,382 @@
+j=0
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):8.6636006238266
+10 * (k + 1):20
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falseej=1000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.51290236195405
+10 * (k + 1):1180
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=2000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.22106056406852134
+10 * (k + 1):1470
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=3000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.15941524157104825
+10 * (k + 1):1640
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=4000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.1356289604852953
+10 * (k + 1):1760
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=5000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.09304784570390431
+10 * (k + 1):1860
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=6000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.07414629128745852
+10 * (k + 1):1940
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=7000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.08208488569927629
+10 * (k + 1):2000
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=8000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.06659656504768956
+10 * (k + 1):2060
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=9000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.06184981028769727
+10 * (k + 1):2110
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=10000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.04756000443061725
+10 * (k + 1):2160
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=11000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.04571480939830132
+10 * (k + 1):2200
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=12000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.03872601670201165
+10 * (k + 1):2240
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=13000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.04292761342913005
+10 * (k + 1):2270
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=14000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.02975305699617535
+10 * (k + 1):2310
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=15000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.02785041044880118
+10 * (k + 1):2340
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=16000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.03557800542282433
+10 * (k + 1):2360
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=17000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.029299696653253163
+10 * (k + 1):2390
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=18000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.02282343061537258
+10 * (k + 1):2420
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=19000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.024843105371077027
+10 * (k + 1):2440
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=20000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.025851657821856024
+10 * (k + 1):2460
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=21000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.02584855985128319
+10 * (k + 1):2480
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=22000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.024967479122939302
+10 * (k + 1):2500
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=23000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.02337373649785959
+10 * (k + 1):2520
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=24000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.021244391650670297
+10 * (k + 1):2540
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=25000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.01879219093571787
+10 * (k + 1):2560
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=26000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.01618785677531289
+10 * (k + 1):2580
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=27000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.019952831743043957
+10 * (k + 1):2590
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=28000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.016492741016023188
+10 * (k + 1):2610
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=29000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.019458164685594238
+10 * (k + 1):2620
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=30000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.015487825335805045
+10 * (k + 1):2640
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=31000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.017648267493184523
+10 * (k + 1):2650
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=32000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.01356775504346885
+10 * (k + 1):2670
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=33000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.015011782710244717
+10 * (k + 1):2680
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=34000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.01633416748536357
+10 * (k + 1):2690
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=35000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.01202922735300248
+10 * (k + 1):2710
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=36000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.012784338305703642
+10 * (k + 1):2720
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=37000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.013413736283910889
+10 * (k + 1):2730
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=38000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.013905043565090324
+10 * (k + 1):2740
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=39000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.014251774076730256
+10 * (k + 1):2750
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=40000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.014457732739349674
+10 * (k + 1):2760
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=41000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00996643449845004
+10 * (k + 1):2780
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=42000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009938289712884447
+10 * (k + 1):2790
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=43000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009820422783573686
+10 * (k + 1):2800
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=44000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00961855702271325
+10 * (k + 1):2810
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=45000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009343580015765053
+10 * (k + 1):2820
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=46000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009006882627160817
+10 * (k + 1):2830
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=47000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.012567784386446672
+10 * (k + 1):2830
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=48000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.011955352465058796
+10 * (k + 1):2840
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=49000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.011299021483041962
+10 * (k + 1):2850
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=50000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.010609245625814464
+10 * (k + 1):2860
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=51000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009896199038086775
+10 * (k + 1):2870
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=52000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009172789658005238
+10 * (k + 1):2880
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=53000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.008448029831683678
+10 * (k + 1):2890
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=54000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007730871359914986
+10 * (k + 1):2900
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=55000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.010281243258791454
+10 * (k + 1):2900
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=56000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009336090966871326
+10 * (k + 1):2910
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=57000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00842913800150298
+10 * (k + 1):2920
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=58000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007563080796676403
+10 * (k + 1):2930
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=59000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.009847603970614422
+10 * (k + 1):2930
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=60000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.008781763336754412
+10 * (k + 1):2940
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=61000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007784852015553634
+10 * (k + 1):2950
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=62000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0068606110473771855
+10 * (k + 1):2960
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=63000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.008797495516498641
+10 * (k + 1):2960
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=64000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0077134773683818925
+10 * (k + 1):2970
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=65000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006721702168568595
+10 * (k + 1):2980
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=66000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.008514930547956025
+10 * (k + 1):2980
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=67000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007385486925039432
+10 * (k + 1):2990
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=68000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006365190568452599
+10 * (k + 1):3000
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=69000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007984748569142032
+10 * (k + 1):3000
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=70000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006852903715495155
+10 * (k + 1):3010
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=71000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005844255155165729
+10 * (k + 1):3020
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=72000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0072741802290915295
+10 * (k + 1):3020
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=73000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006177672714428885
+10 * (k + 1):3030
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=74000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.007622120077737276
+10 * (k + 1):3030
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=75000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006447661543143355
+10 * (k + 1):3040
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=76000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00541854483821292
+10 * (k + 1):3050
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=77000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0066519125795088
+10 * (k + 1):3050
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=78000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005567329794176817
+10 * (k + 1):3060
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=79000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0067879528497314535
+10 * (k + 1):3060
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=80000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005659902227860096
+10 * (k + 1):3070
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=81000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006858137807656075
+10 * (k + 1):3070
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=82000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005695877435852348
+10 * (k + 1):3080
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=83000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0068634480157064295
+10 * (k + 1):3080
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=84000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005678759503579961
+10 * (k + 1):3090
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=85000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0068088107848974936
+10 * (k + 1):3090
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=86000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005611967024198281
+10 * (k + 1):3100
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=87000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00669869803461335
+10 * (k + 1):3100
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=88000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00549870667416539
+10 * (k + 1):3110
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=89000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006537193425825968
+10 * (k + 1):3110
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=90000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0053449763068659645
+10 * (k + 1):3120
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=91000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0063315528903295825
+10 * (k + 1):3120
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=92000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00515603209100379
+10 * (k + 1):3130
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=93000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.006088095784374775
+10 * (k + 1):3130
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=94000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004936465766629525
+10 * (k + 1):3140
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=95000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005812256858917684
+10 * (k + 1):3140
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=96000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0046928266082381515
+10 * (k + 1):3150
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=97000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0055115341189929
+10 * (k + 1):3150
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=98000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004429865869970331
+10 * (k + 1):3160
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=99000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005191163405624605
+10 * (k + 1):3160
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=100000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004153157069856562
+10 * (k + 1):3170
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=101000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0048571459406973345
+10 * (k + 1):3170
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=102000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005647575934639416
+10 * (k + 1):3170
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=103000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004515160501077094
+10 * (k + 1):3180
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=104000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.00524197296575244
+10 * (k + 1):3180
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=105000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004170580219406501
+10 * (k + 1):3190
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=106000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004835826855338419
+10 * (k + 1):3190
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=107000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.003827871462909859
+10 * (k + 1):3200
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=108000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004433220125799902
+10 * (k + 1):3200
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=109000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.005108346052808366
+10 * (k + 1):3200
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=110000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0040395335302973396
+10 * (k + 1):3210
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=111000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004651405567143851
+10 * (k + 1):3210
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=112000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0036585645357332837
+10 * (k + 1):3220
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=113000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004209865686170006
+10 * (k + 1):3220
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=114000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004821888011306219
+10 * (k + 1):3220
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=115000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0037873911944155793
+10 * (k + 1):3230
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=116000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0043368347620064305
+10 * (k + 1):3230
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=117000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004944024026221305
+10 * (k + 1):3230
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=118000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0038770000730913123
+10 * (k + 1):3240
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=119000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004419544666943158
+10 * (k + 1):3240
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=120000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0034453644549855577
+10 * (k + 1):3250
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=121000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.003927500604326889
+10 * (k + 1):3250
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=122000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004459022389919627
+10 * (k + 1):3250
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=123000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0034695097263007695
+10 * (k + 1):3260
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=124000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.003940180381631753
+10 * (k + 1):3260
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=125000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.004457244005719022
+10 * (k + 1):3260
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):Falsej=126000
+np.linalg.norm(P_i_j_next - P_i_j, ord='fro'):0.0034606139663629874
+10 * (k + 1):3270
+np.linalg.norm(P_i_j_next, ord='fro') > 10 * (k + 1):False
